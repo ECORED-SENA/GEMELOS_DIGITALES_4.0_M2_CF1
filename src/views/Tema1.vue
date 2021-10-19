@@ -152,11 +152,11 @@
         #t_1_4
         .titulo-segundo
           h2 1.4 Comandos de edición
-        p.mb-5 Con lo que se ha venido desarrollando en #[b #[span.txt-deco2 el uso de los comandos]], se han logrado #[b #[span.txt-deco1 reconocer sus funciones desde la implementación]]. Ahora, se hace necesario profundizar en los #[b comandos de educación, definidos como el grupo de comandos donde se encuentran todas las herramientas que permiten modificar el #[span.txt-deco2 modelo en 3D]]. En la Figura 11, se identifican cuáles serían estas herramientas.
+        p.mb-5 Con lo que se ha venido desarrollando en #[b #[span.txt-deco2 el uso de los comandos]], se han logrado #[b #[span.txt-deco1 reconocer sus funciones desde la implementación]]. Ahora, se hace necesario profundizar en los #[b comandos de educación, definidos como el grupo de comandos donde se encuentran todas las herramientas que permiten modificar el #[span.txt-deco2 modelo en 3D]]. En la Figura 12, se identifican cuáles serían estas herramientas.
         .row.justify-content-center
           .col-lg-10(data-aos="fade-left")
             .titulo-sexto.color-acento-contenido
-              h5 #[span.txt-deco2 Figura 11.] Herramientas de modificación
+              h5 #[span.txt-deco2 Figura 12.] Herramientas de modificación
             figure.mb-5
               img(src='@/assets/curso/img6.png', style="width: 1200px").m-auto
               figcaption.mt-3.bg-color4 #[b Nota.] Adaptada del sistema CAD NX 12.
