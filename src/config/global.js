@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Modelado de formas en estilo libre',
     descripcionCurso:
-      'Este componente tiene como objetivo guiar al estudiante en el desarrollo de habilidades y destrezas para la creación de gemelos digitales en forma libre mediante el conocimiento y la aplicación del sistema CAD NX. Según Siemens (s. f.-b), un gemelo digital es una representación virtual de un producto o proceso físico que se utiliza para comprender y predecir las características de rendimiento de su equivalente físico. Los gemelos digitales se utilizan a lo largo de todo el ciclo de vida del producto para simular, predecir y optimizar el producto y el sistema de producción, antes de invertir en prototipos y activos físicos. Las diferentes herramientas de NX se agrupan dentro de una serie de aplicaciones, una de las más empleadas es la de modelado, con la cual se crea un nuevo componente o ensamble. Teniendo en cuenta las especificaciones del producto, se elaboran modelos digitales en estilo libre, a través de formas en 3D, curvas y superficies.',
+      'Este componente tiene como objetivo guiar al estudiante en el desarrollo de habilidades y destrezas para la creación de gemelos digitales en forma libre mediante el conocimiento y la aplicación del sistema CAD NX. Según Siemens (s. f.-b), un gemelo digital es una representación virtual de un producto o proceso físico que se utiliza para comprender y predecir las características de rendimiento de su equivalente físico.',
     imagenBannerPrincipal: require('@/assets/curso/banner-princiapal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/fondo-banner-principal.png'),
   },
@@ -73,12 +73,12 @@ export default {
       },
     ],
     subMenu: [
-      //{
-      //  nombreRuta: 'actividad',
-      //  icono: 'far fa-question-circle',
-      //  titulo: 'Actividad didáctica',
-      //  desarrolloContenidos: true,
-      //},
+      {
+        nombreRuta: 'actividad',
+        icono: 'far fa-question-circle',
+        titulo: 'Actividad didáctica',
+        desarrolloContenidos: true,
+      },
       {
         nombreRuta: 'glosario',
         icono: 'fas fa-sort-alpha-down',
@@ -171,7 +171,7 @@ export default {
     {
       termino: 'CAD CAM',
       significado:
-        'CAD CAM es la integración del diseño asistido por ordenador y el software de fabricación asistido por ordenador, con el objetivo de obtener una gestión sencilla de los cambios del diseño, una concepción del diseño simultánea y una configuración del proceso de fabricación flexible, especialmente para el diseño y la fabricación de prototipos y de piezas acabadas.',
+        ' CAD CAM es la integración del diseño asistido por ordenador y el software de fabricación asistido por ordenador, con el objetivo de obtener una gestión sencilla de los cambios del diseño, una concepción del diseño simultánea y una configuración del proceso de fabricación flexible, especialmente para el diseño y la fabricación de prototipos y de piezas acabadas.',
     },
     {
       termino: 'CAD',
@@ -361,7 +361,7 @@ export default {
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Maria Camila Ovalle Ospina',
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',

@@ -8,6 +8,7 @@
         span
           i.fas.fa-info
       h1 Introducción
+    p.mb-5 Los gemelos digitales se utilizan a lo largo de todo el ciclo de vida del producto para simular, predecir y optimizar el producto y el sistema de producción, antes de invertir en prototipos y activos físicos. Las diferentes herramientas de NX se agrupan dentro de una serie de aplicaciones, una de las más empleadas es la de modelado, con la cual se crea un nuevo componente o ensamble. Teniendo en cuenta las especificaciones del producto, se elaboran modelos digitales en estilo libre, a través de formas en 3D, curvas y superficies.
     .row.align-items-center.mb-5(data-aos="slide-left")
       .col-2
         figure.img-position1

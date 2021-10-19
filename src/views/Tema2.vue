@@ -20,13 +20,13 @@
             figure(data-aos="fade-left")
               img(src='@/assets/curso/img39.svg', style="width: 550px").m-auto
         .cajon.color-primario.p-4.mb-5
-          p.mb-0 Observe la Figura 24, #[b donde se presenta el #[span.txt-deco1 grupo de comandos para el modelado síncrono]].
+          p.mb-0 Observe la Figura 23, #[b donde se presenta el #[span.txt-deco1 grupo de comandos para el modelado síncrono]].
         .row.justify-content-center.mb-5
-          .col-lg-6
+          .col-lg-6(data-aos="fade-left")
             .titulo-sexto.color-acento-contenido
-              h5 #[span.txt-deco2 Figura 24.] Grupo de comandos
-            figure(data-aos="fade-left")
-              img(src='@/assets/curso/img40.svg', style="width: 700px").m-auto
+              h5 #[span.txt-deco2 Figura 23.] Grupo de comandos
+            figure.bg-white
+              img(src='@/assets/curso/img7.png', style="width: 700px").m-auto
               figcaption.mt-3.bg-color4 #[b Nota.] Adaptada del sistema CAD NX 12.
         p.mb-5 #[b Para que se lleve a cabo este #[span.txt-deco1 tipo de modelado]], se sugiere hacer uso de las siguientes #[b #[span.txt-deco1 herramientas]] que se presentan en las diapositivas. Observe cada una de ellas desde su descripción y el nombre que le corresponde.
         SlyderA.mb-5
