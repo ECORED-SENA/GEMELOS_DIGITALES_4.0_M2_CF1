@@ -161,7 +161,7 @@
               img(src='@/assets/curso/img6.png', style="width: 1200px").m-auto
               figcaption.mt-3.bg-color4 #[b Nota.] Adaptada del sistema CAD NX 12.
         h3.mb-5 #[b Para ampliar acerca de cómo hacer #[span.txt-deco1 uso de los comandos de edición], observe la siguiente presentación. ]
-        SlyderA
+        SlyderA.mb-5
           .row.justify-content-center
             .col-11
               figure
@@ -198,6 +198,9 @@
             .col-11
               figure
                 img(src='@/assets/curso/img34.svg', style="width: 1200px").m-auto
+        figure
+          .video
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/lLl0soLHoiY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
         separador.mb-5
         #t_1_5
         .titulo-segundo

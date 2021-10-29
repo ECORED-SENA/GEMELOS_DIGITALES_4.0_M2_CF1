@@ -17,7 +17,7 @@
         p.mb-0 Para la lectura y apropiación de los contenidos dispuestos en este componente formativo, se comparte el siguiente video, que permite reconocer los #[span.txt-deco1 elementos a tener en cuenta] desde la introducción, los #[span.txt-deco2 conceptos y temáticas] a desarrollar en este espacio de aprendizaje.
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/9rwh8ezI3vM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     .row.justify-content-center(data-aos="slide-right")
       .col-11
         .row.bg-color2.align-items-center.justify-content-center
