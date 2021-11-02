@@ -10,7 +10,7 @@
             img(src="@/assets/template/completar.svg", alt="Texto que describa la imagen")
       .col-12.col-md-8.col-lg-9
         .titulo-segundo
-          h2 Actividad didáctica
+          h2 Identificar operaciones de transformación
         p.mb-4 Modelado de formas en estilo libre
         .tarjeta.tarjeta--azul.p-3
           .row.justify-content-around.align-items-center            
