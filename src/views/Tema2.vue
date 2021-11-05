@@ -33,39 +33,39 @@
           .row.justify-content-center
             .col-11
               figure
-                img(src='@/assets/curso/img41.svg', style="width: 1200px").m-auto
+                img(src='@/assets/curso/img17.png', style="width: 1200px").m-auto
           .row.justify-content-center
             .col-11
               figure
-                img(src='@/assets/curso/img42.svg', style="width: 1200px").m-auto
+                img(src='@/assets/curso/img18.png', style="width: 1200px").m-auto
           .row.justify-content-center
             .col-11
               figure
-                img(src='@/assets/curso/img43.svg', style="width: 1200px").m-auto
+                img(src='@/assets/curso/img19.png', style="width: 1200px").m-auto
           .row.justify-content-center
             .col-11
               figure
-                img(src='@/assets/curso/img44.svg', style="width: 1200px").m-auto
+                img(src='@/assets/curso/img20.png', style="width: 1200px").m-auto
           .row.justify-content-center
             .col-11
               figure
-                img(src='@/assets/curso/img45.svg', style="width: 1200px").m-auto
+                img(src='@/assets/curso/img21.png', style="width: 1200px").m-auto
           .row.justify-content-center
             .col-11
               figure
-                img(src='@/assets/curso/img46.svg', style="width: 1200px").m-auto
+                img(src='@/assets/curso/img22.png', style="width: 1200px").m-auto
           .row.justify-content-center
             .col-11
               figure
-                img(src='@/assets/curso/img47.svg', style="width: 1200px").m-auto
+                img(src='@/assets/curso/img23.png', style="width: 1200px").m-auto
           .row.justify-content-center
             .col-11
               figure
-                img(src='@/assets/curso/img48.svg', style="width: 1200px").m-auto
+                img(src='@/assets/curso/img24.png', style="width: 1200px").m-auto
         figure.mb-5
           .video
             iframe(width="560" height="315" src="https://www.youtube.com/embed/5NX0E6Nb194" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-        .row.bg-color6.justify-content-center(data-aos="fade-down")
+        .row.bg-color2.justify-content-center(data-aos="fade-down")
           .col-6.col-lg-3.mb-4.mb-lg-0
             figure
               img(src='@/assets/curso/img50.svg', style="width: 1200px").m-auto

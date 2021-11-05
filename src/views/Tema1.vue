@@ -78,7 +78,7 @@
             .titulo-sexto.color-acento-contenido
               h5 #[span.txt-deco2 Figura 5.] Imagen Rasterizada
             figure.mb-5
-              img(src='@/assets/curso/img1.gif', style="width: 900px").m-auto
+              img(src='@/assets/curso/img27.png', style="width: 900px").m-auto
               figcaption.mt-3.bg-color4 #[b Nota.] Adaptada del sistema CAD NX 12.
       .py-4.py-md-5(titulo="Formas primitivas" :icono="require('@/assets/curso/img12.svg')")
         .row.align-items-center.justify-content-center
@@ -86,7 +86,7 @@
             .titulo-sexto.color-acento-contenido
               h5 #[span.txt-deco2 Figura 6.] Formas primitivas
             figure.mb-5
-              img(src='@/assets/curso/img2.gif', style="width: 900px").m-auto
+              img(src='@/assets/curso/img28.png', style="width: 900px").m-auto
               figcaption.mt-3.bg-color4 #[b Nota.] Adaptada del sistema CAD NX 12.
           .col-lg-4
             h3 Formas primitivas
@@ -100,7 +100,7 @@
             .titulo-sexto.color-acento-contenido
               h5 #[span.txt-deco2 Figura 7.] Iniciar el modelo simétrico
             figure.mb-5
-              img(src='@/assets/curso/img3.gif', style="width: 900px").m-auto
+              img(src='@/assets/curso/img29.png', style="width: 900px").m-auto
               figcaption.mt-3.bg-color4 #[b Nota.] Adaptada del sistema CAD NX 12.
       .py-4.py-md-5(titulo="Extrudir la jaula" :icono="require('@/assets/curso/img14.svg')")
         .row.align-items-center.justify-content-center
@@ -108,7 +108,7 @@
             .titulo-sexto.color-acento-contenido
               h5 #[span.txt-deco2 Figura 8.] Extrudir la jaula
             figure.mb-5
-              img(src='@/assets/curso/img4.gif', style="width: 900px").m-auto
+              img(src='@/assets/curso/img30.png', style="width: 900px").m-auto
               figcaption.mt-3.bg-color4 #[b Nota.] Adaptada del sistema CAD NX 12.
           .col-lg-4
             h3 Extrudir la jaula
@@ -122,7 +122,7 @@
             .titulo-sexto.color-acento-contenido
               h5 #[span.txt-deco2 Figura 9.] Jaula de tubo
             figure.mb-5
-              img(src='@/assets/curso/img5.gif', style="width: 900px").m-auto
+              img(src='@/assets/curso/img31.png', style="width: 900px").m-auto
               figcaption.mt-3.bg-color4 #[b Nota.] Adaptada del sistema CAD NX 12.
       .py-4.py-md-5(titulo="Cara en puente" :icono="require('@/assets/curso/img16.svg')")
         .row.align-items-center.justify-content-center
@@ -130,7 +130,7 @@
             .titulo-sexto.color-acento-contenido
               h5 #[span.txt-deco2 Figura 10.] Cara en puente
             figure.mb-5
-              img(src='@/assets/curso/img5.png', style="width: 900px").m-auto
+              img(src='@/assets/curso/img32.png', style="width: 900px").m-auto
               figcaption.mt-3.bg-color4 #[b Nota.] Adaptada del sistema CAD NX 12.
           .col-lg-4
             h3 Cara en puente
@@ -144,7 +144,7 @@
             .titulo-sexto.color-acento-contenido
               h5 #[span.txt-deco2 Figura 11.] Comando de relleno
             figure.mb-5
-              img(src='@/assets/curso/img6.gif', style="width: 900px").m-auto
+              img(src='@/assets/curso/img33.png', style="width: 900px").m-auto
               figcaption.mt-3.bg-color4 #[b Nota.] Adaptada del sistema CAD NX 12.
     separador.mb-5
     .row.bg-color3.px-5
@@ -165,39 +165,39 @@
           .row.justify-content-center
             .col-11
               figure
-                img(src='@/assets/curso/img26.svg', style="width: 1200px").m-auto
+                img(src='@/assets/curso/img8.png', style="width: 1200px").m-auto
           .row.justify-content-center
             .col-11
               figure
-                img(src='@/assets/curso/img27.svg', style="width: 1200px").m-auto
+                img(src='@/assets/curso/img9.png', style="width: 1200px").m-auto
           .row.justify-content-center
             .col-11
               figure
-                img(src='@/assets/curso/img28.svg', style="width: 1200px").m-auto
+                img(src='@/assets/curso/img10.png', style="width: 1200px").m-auto
           .row.justify-content-center
             .col-11
               figure
-                img(src='@/assets/curso/img29.svg', style="width: 1200px").m-auto
+                img(src='@/assets/curso/img11.png', style="width: 1200px").m-auto
           .row.justify-content-center
             .col-11
               figure
-                img(src='@/assets/curso/img30.svg', style="width: 1200px").m-auto
+                img(src='@/assets/curso/img12.png', style="width: 1200px").m-auto
           .row.justify-content-center
             .col-11
               figure
-                img(src='@/assets/curso/img31.svg', style="width: 1200px").m-auto
+                img(src='@/assets/curso/img13.png', style="width: 1200px").m-auto
           .row.justify-content-center
             .col-11
               figure
-                img(src='@/assets/curso/img32.svg', style="width: 1200px").m-auto
+                img(src='@/assets/curso/img14.png', style="width: 1200px").m-auto
           .row.justify-content-center
             .col-11
               figure
-                img(src='@/assets/curso/img33.svg', style="width: 1200px").m-auto
+                img(src='@/assets/curso/img15.png', style="width: 1200px").m-auto
           .row.justify-content-center
             .col-11
               figure
-                img(src='@/assets/curso/img34.svg', style="width: 1200px").m-auto
+                img(src='@/assets/curso/img16.png', style="width: 1200px").m-auto
         figure
           .video
             iframe(width="560" height="315" src="https://www.youtube.com/embed/lLl0soLHoiY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
@@ -213,7 +213,7 @@
             .titulo-sexto.color-acento-contenido
               h5 #[span.txt-deco2 Figura 21.] Resolución de faceta aumentada
             figure.bg-white
-              img(src='@/assets/curso/img7.gif', style="width: 1200px").m-auto
+              img(src='@/assets/curso/img25.png', style="width: 1200px").m-auto
               figcaption.mt-3.bg-color4 #[b Nota.] Adaptada del sistema CAD NX 12.
         separador.mb-5
         #t_1_6
@@ -227,7 +227,7 @@
             .titulo-sexto.color-acento-contenido
               h5 #[span.txt-deco2 Figura 22.] Polilínea de jaula
             figure.bg-white
-              img(src='@/assets/curso/img8.gif', style="width: 1200px").m-auto
+              img(src='@/assets/curso/img26.png', style="width: 1200px").m-auto
               figcaption.mt-3.bg-color4 #[b Nota.] Adaptada del sistema CAD NX 12.
         p.mb-0 A partir de ejemplos, uso y ubicación dentro del menú, se hace posible la implementación de cada uno de los comandos y herramientas necesarias para lograr el desarrollo óptimo que espera el cliente y la propuesta de los diferentes productos.
   
