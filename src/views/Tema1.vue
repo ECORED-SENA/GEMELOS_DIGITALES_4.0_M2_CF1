@@ -54,7 +54,7 @@
         #t_1_3
         .titulo-segundo
           h2 1.3 Comandos de creación
-        .row.align-items-center
+        .row.align-items-center.mb-5
           .col-lg-4.mb-4.mb-lg-0
             figure(data-aos="fade-left")
               img(src='@/assets/curso/img9.svg', style="width: 350px").m-auto
@@ -63,8 +63,8 @@
             .row.justify-content-center
               .col-lg-10(data-aos="fade-right")
                 .titulo-sexto.color-acento-contenido
-                  h5 #[span.txt-deco2 Figura 3.] Panel de herramientas de #[i Realize Shape]
-                figure.mb-5
+                  h5 #[span.txt-deco2 Figura 4.] Panel de herramientas de #[i Realize Shape]
+                figure
                   img(src='@/assets/curso/img4.png', style="width: 800px").m-auto
                   figcaption.mt-3.bg-color4 #[b Nota.] Adaptada del sistema CAD NX 12.
     p.mb-5 #[b En las pestañas, se comparte el #[span.txt-deco1 uso de herramientas y comandos de creación, diseño y desarrollo]].
@@ -73,7 +73,7 @@
         .row.align-items-center.justify-content-center
           .col-lg-4.mb-4.mb-md-0
             h3 Imagen ráster
-            p Esta herramienta se encuentra en la pestaña de inicio, en plano datum, y permite insertar varias imágenes en formatos jpg, png o bmp, en diferentes planos de referencia.
+            p Esta herramienta se encuentra en la pestaña de inicio, en plano de datum, y permite insertar varias imágenes en formatos jpg, png o bmp, en diferentes planos de referencia.
           .col-lg-8
             .titulo-sexto.color-acento-contenido
               h5 #[span.txt-deco2 Figura 5.] Imagen Rasterizada
@@ -152,7 +152,7 @@
         #t_1_4
         .titulo-segundo
           h2 1.4 Comandos de edición
-        p.mb-5 Con lo que se ha venido desarrollando en #[b #[span.txt-deco2 el uso de los comandos]], se han logrado #[b #[span.txt-deco1 reconocer sus funciones desde la implementación]]. Ahora, se hace necesario profundizar en los #[b comandos de educación, definidos como el grupo de comandos donde se encuentran todas las herramientas que permiten modificar el #[span.txt-deco2 modelo en 3D]]. En la Figura 12, se identifican cuáles serían estas herramientas.
+        p.mb-5 Con lo que se ha venido desarrollando en #[b #[span.txt-deco2 el uso de los comandos]], se han logrado #[b #[span.txt-deco1 reconocer sus funciones desde la implementación]]. Ahora, se hace necesario profundizar en los #[b comandos de edición, definidos como el grupo de comandos donde se encuentran todas las herramientas que permiten modificar el #[span.txt-deco2 modelo en 3D]]. En la Figura 12, se identifican cuáles serían estas herramientas.
         .row.justify-content-center
           .col-lg-10(data-aos="fade-left")
             .titulo-sexto.color-acento-contenido

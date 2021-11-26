@@ -29,7 +29,7 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '1.1',
-            titulo: 'Interface',
+            titulo: 'Interfaz',
             hash: 't_1_1',
           },
           {
@@ -201,7 +201,7 @@ export default {
     {
       termino: 'Imagen rasterizada',
       significado:
-        'es un comando que se encuentra en la pestaña de inicio, en plano datum, y permite insertar varias imágenes en formatos jpg, png o bmp en diferentes planos de referencia.',
+        'es un comando que se encuentra en la pestaña de inicio, en plano de datum, y permite insertar varias imágenes en formatos jpg, png o bmp en diferentes planos de referencia.',
     },
     {
       termino: 'Modelado síncrono',
@@ -400,6 +400,11 @@ export default {
     gestoresRepositorio: [
       {
         nombre: 'Milady Tatiana Villamil Castellanos',
+        cargo: 'Validación y vinculación en plataforma LMS',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
+      },
+      {
+        nombre: 'Daniel Felipe Varón Molina',
         cargo: 'Validación y vinculación en plataforma LMS',
         centro: 'Centro de Comercio y Servicios - Regional Tolima',
       },
